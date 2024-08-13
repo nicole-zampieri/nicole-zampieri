@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nicole-zampieri
-- 👀 I’m interested in determining drivers of growth & demography in mesic savannas to inform conservation
+- 👀 My research examines drivers of growth & demography in mesic savannas to inform conservation
 - 🌱 I’m currently learning how to use GitHub!
 - ✨ I'm a Post-Doctoral Research Scientist in a joint position at Tall Timbers and the Jones Center at Ichauway
 - 📫 Reach me at nzampieri@talltimbers.org
