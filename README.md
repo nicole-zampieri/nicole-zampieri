@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nicole-zampieri
 - 👀 My research examines drivers of growth & demography in mesic savannas to inform conservation
 - 🌱 I’m currently learning how to use GitHub!
-- 📚 I'm a Post-Doctoral Research Scientist in a joint position at Tall Timbers and the Jones Center at Ichauway
-- 🎓 I'll be starting as an Assistant Professor of Biology at the University of Central Florida December 2025
+- 📚 I'm an Assistant Professor of Biology at the University of Central Florida
 - 📫 Reach me at nicole.zampieri@ucf.edu
 - 💻 on ResearchGate: https://www.researchgate.net/profile/Nicole-Zampieri
 - 🕸 on the web: https://nicolezampieri.weebly.com/
